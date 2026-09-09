@@ -11,7 +11,7 @@
 * [SideCause]()
 * [SkillStreak]()
 * [SkyTracker]()
-* [Sunlight]()
+* [Sunlight](teams/sunlightBeforeScreentime.md)
 
 ## CSCI 430 (Spring 2026):
 
