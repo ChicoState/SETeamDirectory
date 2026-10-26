@@ -5,3 +5,4 @@
 - James Oppy [spartan005](https://github.com/spartan005)
 - Dalton Underwood [Da-man525](https://github.com/Da-man525)
 - Prabhdeep Singh [PSilver741](https://www.github.com/PSilver741)
+- Nicholas Olson [nkolson-cyber](https://www.github.com/nkolson-cyber)
